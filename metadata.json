@@ -1,0 +1,6 @@
+{
+  "name": "Loom",
+  "description": "A discovery-first learning app that turns any goal into an active study workspace built around SQ5R.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
